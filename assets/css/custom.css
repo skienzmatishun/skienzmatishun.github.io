@@ -1,0 +1,27 @@
+#title-header {
+color:red;
+}
+
+#red-row {
+background:#ea2a2a;
+padding:60px;
+}
+
+.large-red {
+font-size:50px;color:
+white;
+}
+.red-text {
+color:white;
+font-size:30px;
+}
+
+#white-row {
+padding:60px;
+}
+.specifications {
+-webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);padding:20px;width:400px;margin-right:20px;margin-bottom:25px;border-radius:25px;float:left;}
+
+textarea.textarea{width:400px;}

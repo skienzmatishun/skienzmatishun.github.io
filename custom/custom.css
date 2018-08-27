@@ -1,0 +1,28 @@
+.splash {
+
+    background-color: white;
+    background-image: none;
+}
+
+#title-header {
+color:red;
+}
+
+#red-row {
+background:#ea2a2a;
+padding:60px;
+}
+
+.large-red {
+font-size:50px;color:
+white;
+}
+.red-text {
+color:white;
+font-size:30px;
+}
+
+#white-row {
+padding:60px;
+}
+
